@@ -37,6 +37,6 @@ Interactions: <br>
 > [Transcription](https://docs.google.com/document/d/1S9ZX-qr_usPSyhJuOYKBZH07HcGCTc5Ye46jXdp4sC8/edit?usp=sharing)<br>
 
 ## Reflection
-> I should have asked my interviewee which type of iOS devices they used before I sent out the inviation. There are some differences between different versions of iOS health app. The participant's mobile device is iOS 12 and the tested version is iOS 13. 
-> I should have figure out more detailed questions for the participant to ask for their experience with the iOS type.
-> Everything else went well
+> I should have asked my interviewee which type of iOS devices they used before I sent out the inviation. There are some differences between different versions of iOS health app. The participant's mobile device is iOS 12 and the tested version is iOS 13. <br>
+> I should have figure out more detailed questions for the participant to ask for their experience with the iOS type.<br>
+> Everything else went well. <br>
