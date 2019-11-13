@@ -16,7 +16,7 @@ For 2019 Fall DH150 User Experience Design final project <br>
 
 ## Research methods and plan
 Location:<br>
-> The study takes place in Kerckhoff Study Room at UCLA, where participants will be observed as they use the app <br>
+> The study took place in Powell Libaray Media Room Five at UCLA, where participants will be observed as they use the app <br>
 
 Interactions: <br>
 > The information about how the participant uses the software will be record. Participants will be asked to fill out questionnaires and will be interviewed. Information recorded will be used along with the information collected from other participants, to recommend ways to improve the software.
@@ -37,6 +37,5 @@ Interactions: <br>
 > [Transcription](https://docs.google.com/document/d/1S9ZX-qr_usPSyhJuOYKBZH07HcGCTc5Ye46jXdp4sC8/edit?usp=sharing)<br>
 
 ## Reflection
-> I should have asked my interviewee which type of iOS devices they used before I sent out the inviation. There are some differences between different versions of iOS health app. The participant's mobile device is iOS 12 and the tested version is iOS 13. <br>
+> I should have asked my interviewee which type of iOS devices they used before I sent out the invitation. There are some differences between different versions of iOS health app. The participant's mobile device is iOS 12 and the tested version is iOS 13. <br>
 > I should have figure out more detailed questions for the participant to ask for their experience with the iOS type.<br>
-> Everything else went well. <br>
