@@ -16,7 +16,7 @@ For 2019 Fall DH150 User Experience Design final project <br>
 
 ## Research methods and plan
 Location:<br>
-> The study took place in Powell Libaray Media Room Five at UCLA, where participants will be observed as they use the app <br>
+> The study took place in Powell Library Media Room Five at UCLA, where participants will be observed as they use the app <br>
 
 Interactions: <br>
 > The information about how the participant uses the software will be record. Participants will be asked to fill out questionnaires and will be interviewed. Information recorded will be used along with the information collected from other participants, to recommend ways to improve the software.
