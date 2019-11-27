@@ -39,3 +39,6 @@ Interactions: <br>
 ## Reflection
 > I should have asked my interviewee which type of iOS devices they used before I sent out the invitation. There are some differences between different versions of iOS health app. The participant's mobile device is iOS 12 and the tested version is iOS 13. <br>
 > I should have figure out more detailed questions for the participant to ask for their experience with the iOS type.<br>
+
+## Interactive Prototype 
+> [Interactive Prototype](https://projects.invisionapp.com/freehand/document/Ebox5b6hP)<br>
