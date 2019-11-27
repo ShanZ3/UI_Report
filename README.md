@@ -41,4 +41,4 @@ Interactions: <br>
 > I should have figure out more detailed questions for the participant to ask for their experience with the iOS type.<br>
 
 ## Interactive Prototype 
-> [Interactive Prototype](https://projects.invisionapp.com/freehand/document/Ebox5b6hP)<br>
+> [Interactive Prototype](https://projects.invisionapp.com/prototype/ck3gx5oxd00qtel0112vqlbs4/play)<br>
